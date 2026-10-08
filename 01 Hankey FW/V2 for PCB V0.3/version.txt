@@ -1,0 +1,17 @@
+/**
+  ******************************************************************************
+  * @Date           : 28.10.2025
+  * @Author			: Trong Huu
+  * @Brief          : Main program body
+  ******************************************************************************
+  * @UpdateLog
+  + 30.10.2025 : V1.1
+
+  * @Note
+
+	+ Handkey is Master
+	+ Master send:
+	--> Send 		{FUPxxxxxyyyyy}\r\n     :	xxxxx is speed percent, yyyyy is cycle test
+	<-- Feedback	{OKFUPxyy}\r\n			:	x is Running/stop, yy is Limit UpDown status
+  ******************************************************************************
+  */
